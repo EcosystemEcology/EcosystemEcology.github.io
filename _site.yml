@@ -1,0 +1,12 @@
+name: "ECOL592"
+navbar: 
+  title: "Quantitative Ecosystem Ecology"
+  left:
+    - text: "R Programming Fundamentals"
+      menu: 
+        - text: "Introduction to R"
+        - href: Introduction_to_R_Programming.html
+    - text: "Ecosystem Data Analysis"
+      menu:
+        - text: "Biomass"
+        - href: biomass.html
